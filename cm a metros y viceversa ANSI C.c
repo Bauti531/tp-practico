@@ -7,9 +7,9 @@ Write your code in this editor and press "Run" button to compile and execute it.
 *******************************************************************************/
 
 #include <stdio.h>
-
-#include <stdio.h>
-
+// Código del alumno Iván Bautista Pereira
+// Link de git personal: https://github.com/Bauti531/tp-practico
+// Link del git grupal (lider: Gabriel Alan Quiroz): https://github.com/matecebado357/Trabajo-de-Laboratorio-de-Programacion
 float metrosACentimetros(float metros) {
     return metros * 100;
 }
